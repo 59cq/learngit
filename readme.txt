@@ -8,4 +8,3 @@ Creating a new branch is quick AND simple
 
 branch test dev
 
-the BUG is now fixed
