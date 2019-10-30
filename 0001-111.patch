@@ -1,0 +1,21 @@
+From a2b21f27443e7529e00562ef1690b2ccd369ad40 Mon Sep 17 00:00:00 2001
+From: BroWuGou <a924673816@outlook.com>
+Date: Mon, 14 Oct 2019 10:17:10 +0800
+Subject: [PATCH] 111
+
+---
+ readme.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/readme.txt b/readme.txt
+index fa7244b..87aa7e0 100644
+--- a/readme.txt
++++ b/readme.txt
+@@ -8,3 +8,4 @@ Creating a new branch is quick AND simple
+ 
+ branch test dev
+ 
++the BUG is now fixed
+-- 
+2.23.0.windows.1
+
